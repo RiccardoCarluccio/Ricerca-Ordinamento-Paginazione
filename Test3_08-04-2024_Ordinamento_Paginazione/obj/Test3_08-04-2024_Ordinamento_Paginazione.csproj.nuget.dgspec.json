@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Riccardo\\source\\repos\\PART 2 - API\\Test3_08-04-2024_Ordinamento_Paginazione\\Test3_08-04-2024_Ordinamento_Paginazione\\Test3_08-04-2024_Ordinamento_Paginazione.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Riccardo\\source\\repos\\PART 2 - API\\Test3_08-04-2024_Ordinamento_Paginazione\\Test3_08-04-2024_Ordinamento_Paginazione\\Test3_08-04-2024_Ordinamento_Paginazione.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Riccardo\\source\\repos\\PART 2 - API\\Test3_08-04-2024_Ordinamento_Paginazione\\Test3_08-04-2024_Ordinamento_Paginazione\\Test3_08-04-2024_Ordinamento_Paginazione.csproj",
+        "projectName": "Test3_08-04-2024_Ordinamento_Paginazione",
+        "projectPath": "C:\\Users\\Riccardo\\source\\repos\\PART 2 - API\\Test3_08-04-2024_Ordinamento_Paginazione\\Test3_08-04-2024_Ordinamento_Paginazione\\Test3_08-04-2024_Ordinamento_Paginazione.csproj",
+        "packagesPath": "C:\\Users\\Riccardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Riccardo\\source\\repos\\PART 2 - API\\Test3_08-04-2024_Ordinamento_Paginazione\\Test3_08-04-2024_Ordinamento_Paginazione\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Riccardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Riccardo\\source\\repos\\PART 2 - API\\Test2_27-03-2024_NuGetLibraries\\RegexUtils\\RegexUtils\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
