@@ -1,0 +1,6 @@
+@Test3_08_04_2024_Ordinamento_Paginazione_HostAddress = http://localhost:5192
+
+GET {{Test3_08_04_2024_Ordinamento_Paginazione_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

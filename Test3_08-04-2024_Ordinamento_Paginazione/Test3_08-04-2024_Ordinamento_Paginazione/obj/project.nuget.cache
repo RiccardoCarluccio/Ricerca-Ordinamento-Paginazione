@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "B3AC0sYht6qcrjR80v5LFu7nY3PyXrAsX1CPIdlux0DGTohX66YA7x1b/wToDq6ZXPZMUjLI2yle5I6Vwg0HcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Riccardo\\source\\repos\\PART 2 - API\\Test3_08-04-2024_Ordinamento_Paginazione\\Test3_08-04-2024_Ordinamento_Paginazione\\Test3_08-04-2024_Ordinamento_Paginazione.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riccardo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Riccardo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Riccardo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Riccardo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Riccardo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Riccardo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
